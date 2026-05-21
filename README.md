@@ -80,6 +80,7 @@ codex-skills-lab/
     skill-template/
       SKILL.md
   docs/
+    dogfooding-notes.md
     skill-usage-examples.md
     skill-review-checklist.md
     license-policy.md
@@ -88,6 +89,8 @@ codex-skills-lab/
 ## 利用例
 
 Codexへ依頼するときの具体例は [docs/skill-usage-examples.md](docs/skill-usage-examples.md) にまとめています。
+
+手動検証の記録は [docs/dogfooding-notes.md](docs/dogfooding-notes.md) に残します。
 
 ## Skill作成方針
 
