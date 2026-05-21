@@ -1,6 +1,6 @@
 ---
 name: code-review
-description: PRレビュー、git diff確認、実装後のセルフレビュー、変更前のリスク洗い出しを依頼されたときに使う。
+description: PRレビュー、git diff確認、code review、review this PR、実装後のセルフレビュー、変更前のリスク洗い出しを依頼されたときに使う。
 ---
 
 # Code Review

@@ -1,6 +1,6 @@
 ---
 name: pr-summary
-description: PR説明文、変更点、背景、確認方法、影響範囲、レビュアー向け要点の整理を依頼されたときに使う。
+description: PR説明文、summarize this PR、PR summary、変更点、背景、確認方法、影響範囲、レビュアー向け要点の整理を依頼されたときに使う。
 ---
 
 # PR Summary

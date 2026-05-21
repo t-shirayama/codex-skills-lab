@@ -1,6 +1,6 @@
 ---
 name: skill-name
-description: このSkillをいつ使うべきかが分かる説明を書く。
+description: TODO: このSkillを使う具体的な依頼、対象作業、トリガー語を1文で書く。公開前に必ず書き換える。
 ---
 
 # Skill Name

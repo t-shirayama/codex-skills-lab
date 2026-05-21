@@ -1,6 +1,6 @@
 ---
 name: ci-failure-fix
-description: GitHub ActionsなどのCI失敗、テスト、lint、型チェック、ビルド失敗のログ調査やローカル再現手順作成を依頼されたときに使う。
+description: CI failure、fix CI、GitHub ActionsなどのCI失敗、テスト、lint、型チェック、ビルド失敗のログ調査やローカル再現手順作成を依頼されたときに使う。
 ---
 
 # CI Failure Fix

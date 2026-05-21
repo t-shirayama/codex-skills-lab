@@ -16,6 +16,25 @@ Codex向けの実用Agent Skillsを集めて育てるリポジトリ
 
 Skillは、Codexに特定の作業を安定して実行させるための手順書です。目的、使う場面、入力確認、手順、安全上の注意、出力形式を明確にすることで、同じ種類の作業を再現性高く進められるようにします。
 
+## 使い方
+
+このリポジトリのSkillは、CodexのSkillディレクトリに配置して利用することを想定しています。
+
+例:
+
+```bash
+mkdir -p ~/.codex/skills
+cp -r skills/code-review ~/.codex/skills/
+```
+
+利用時は、Codexに次のように依頼します。
+
+```text
+この差分を code-review skill を使ってレビューして
+```
+
+依頼は日本語でも英語でも構いません。例: `review this PR`、`write tests`、`summarize this PR`。
+
 ## 初期Skill一覧
 
 | Skill名 | 用途 | 想定する利用場面 | 注意点 |
@@ -76,6 +95,7 @@ codex-skills-lab/
 - 破壊的変更、依存関係追加、仕様変更、テスト不足、秘密情報の扱いには必ず注意書きを入れます。
 - 初期構成では `scripts/` を作らず、すべてinstruction-onlyのSkillにします。
 - Skillを追加・変更した場合は、必要に応じてREADMEの一覧も更新します。
+- 出力形式は日本語を基本にしますが、リリースノートなど用途に応じて一般的な英語見出しを使う場合があります。
 
 ## ライセンスと出典管理
 
