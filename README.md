@@ -90,7 +90,7 @@ codex-skills-lab/
 
 Codexへ依頼するときの具体例は [docs/skill-usage-examples.md](docs/skill-usage-examples.md) にまとめています。
 
-手動検証の記録は [docs/dogfooding-notes.md](docs/dogfooding-notes.md) に残します。
+実際にSkillを試した結果や改善メモは [docs/dogfooding-notes.md](docs/dogfooding-notes.md) に記録します。
 
 ## Skill作成方針
 
