@@ -80,9 +80,14 @@ codex-skills-lab/
     skill-template/
       SKILL.md
   docs/
+    skill-usage-examples.md
     skill-review-checklist.md
     license-policy.md
 ```
+
+## 利用例
+
+Codexへ依頼するときの具体例は [docs/skill-usage-examples.md](docs/skill-usage-examples.md) にまとめています。
 
 ## Skill作成方針
 

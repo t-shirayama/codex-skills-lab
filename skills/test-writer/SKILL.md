@@ -1,6 +1,6 @@
 ---
 name: test-writer
-description: 新機能のテスト追加、write tests、add tests、バグ修正の再発防止テスト、テスト不足の確認を依頼されたときに使う。
+description: 新機能やバグ修正へのテスト追加、write tests、add tests、再発防止テスト、テスト不足の確認を依頼されたときに使う。
 ---
 
 # Test Writer
